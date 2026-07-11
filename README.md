@@ -91,15 +91,6 @@ fun_fact: "Turns raw data into models that actually ship."
 
 </div>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Abdullah01&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
 
 <div align="center">
 
