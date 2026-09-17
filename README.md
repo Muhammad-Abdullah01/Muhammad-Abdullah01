@@ -1,90 +1,88 @@
-<div align="center">
+# Muhammad Abdullah Nisar 🚀
 
-# Muhammad Abdullah
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Full-Stack+AI+Developer;Building+RAG+%26+Agentic+Systems" alt="Typing SVG" /></a>
+AI/ML Engineer | NLP & Deep Learning | Applied AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abdullah01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abdullah01?tab=repositories)
 
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+NLP+%26+Deep+Learning;Transformer+Fine-Tuning+%2B+LLM+Applications;99.05%25+Accuracy+Fake+News+Detector+Builder;Full+Stack+AI+Product+Developer" />
 
----
+🎓 B.Tech Computer Science @ Khawaja Fareed University of Engineering & IT
 
-## 👨‍💻 About Me
+🤖 Passionate about building deployable AI systems — not just notebooks that run once
 
-I am a Data Science student at **Khwaja Fareed University of Engineering & Information Technology**, focused on turning complex AI/ML research into scalable, deployable systems. I bridge the gap between backend machine learning models and intuitive user interfaces.
+🧠 Fine-tuned transformer models achieving 99%+ accuracy on real-world classification tasks
 
-- 💼 **Experience:** Completed a Machine Learning Internship at Arch Technologies focusing on time-series analysis.
-- 🔭 **Current Focus:** Developing Agentic AI and Retrieval-Augmented Generation (RAG) systems using LangGraph, FastAPI, and Vector Databases (Qdrant, ChromaDB, Neo4j).
-- ⚙️ **Engineering Philosophy:** Comfortable across the entire ML lifecycle — from data prep and training to Docker containerization, CI/CD, and full-stack React deployment.
-- 💬 **Ask me about:** PyTorch, Hugging Face Transformers, RAG Pipelines, and Time-Series Forecasting.
+🏆 Built and shipped 4+ end-to-end AI/software projects across NLP, forecasting, and mobile
 
----
+🌱 Currently exploring System Design, LLM Fine-Tuning, and RAG Pipelines
+
+## 💥 Who Am I?
+
+```javascript
+const abdullah = {
+    role: "AI/ML Engineer",
+    education: "B.Tech CSE @ Khawaja Fareed University of Engineering & IT",
+    currentFocus: [
+        "NLP & Transformer Fine-Tuning",
+        "Deep Learning",
+        "Time-Series Forecasting",
+        "LLM Applications & RAG"
+    ],
+    shipped: {
+        accuracy: "99.05% on Fake News Detection (BERT)",
+        projects: "4+ end-to-end AI & software projects"
+    }
+};
+```
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### 🧠 [GigPilot: Freelancer AI Copilot](#)
-Built and deployed an AI copilot for the Google AI Seekho hackathon. Analyzes job postings and generates tailored proposal drafts.
-**Tech:** `React.js` `Gemini API` `LangChain` `Tailwind CSS` `Vercel`
+### 🔍 Fake News Detector
+BERT-based fake news classifier fine-tuned on the WELFake dataset (63K articles). Achieves **99.05% accuracy** and **98.94% F1**, outperforming a TF-IDF baseline by 4%.
+Built with PyTorch & Hugging Face Transformers.
+🔗 [View Repo](https://github.com/Muhammad-Abdullah01/Fake-News-Detector)
 
-### 🎙️ [QuestionPrep: AI Interview Simulator](#)
-Designed an end-to-end AI interview system featuring dynamic question generation and real-time audio processing. 
-**Tech:** `Python` `FastAPI` `System Architecture` `Frontend UI`
+### 🧭 Raahi-AI
+An AI-powered tourism guide for Pakistan offering context-aware, conversational travel recommendations.
+Built with TypeScript.
+🔗 [View Repo](https://github.com/Muhammad-Abdullah01/Raahi-AI)
 
-### 🔍 [Fake News Detector](https://github.com/Muhammad-Abdullah01/Fake-News-Detector)
-BERT-based fake news classifier fine-tuned on the WELFake dataset (63K articles).
-**99.05% accuracy · 98.94% F1** — a 4-point improvement over a TF-IDF baseline.
-**Tech:** `PyTorch` `Hugging Face Transformers` `NLP`[cite: 1]
+### 📈 ETH/USDT Time-Series Forecasting
+Forecasting Ethereum price movement using time-series modeling techniques, benchmarked across multiple approaches.
+Built with Python in Jupyter Notebook.
+🔗 [View Repo](https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-)
 
-### 📈 [ETH/USDT Time-Series Forecasting](https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-)
-Engineered predictive models for Ethereum price movement using advanced time-series modeling techniques[cite: 1].
-**Tech:** `Python` `Scikit-Learn` `XGBoost` `Jupyter`
+### 🎮 Tic-Tac-Toe Mobile App
+A polished, native mobile game with clean UI and solid game logic.
+Built with Kotlin.
+🔗 [View Repo](https://github.com/Muhammad-Abdullah01/Tic-Tac-Toe-Mobile-app)
 
----
+## 🏆 Achievements
 
-## 🛠️ Tech Stack & Tools
-
-**AI, Machine Learning & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Full-Stack & Databases**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**DevOps & Architecture**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+- Fine-tuned a BERT model to 99.05% accuracy on a 63K-article fake news dataset
+- Built and shipped 4+ full-stack AI and software projects
+- Worked across the full ML lifecycle: data prep, training, evaluation, deployment
+- Actively exploring Transformers, LLM fine-tuning, and RAG pipelines
+- Comfortable across NLP, mobile (Kotlin), and web (TypeScript) development
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Abdullah01&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
+<img src="https://streak-stats.demolab.com/?user=Muhammad-Abdullah01&theme=tokyonight" />
 <div align="center">
 
 *"Every dataset tells a story — I just build the models that read it."*[cite: 1]
