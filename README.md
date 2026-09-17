@@ -4,9 +4,9 @@
 
 **AI/ML Engineer | NLP & Deep Learning | Applied AI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-nisar-aa7335247/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abdullah01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisarabdullah6741@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+NLP+%26+Deep+Learning;Transformer+Fine-Tuning+%2B+LLM+Applications;99.05%25+Accuracy+Fake+News+Detector+Builder;Full+Stack+AI+Product+Developer" />
 
