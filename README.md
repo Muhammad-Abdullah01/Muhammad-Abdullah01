@@ -1,12 +1,16 @@
+<div align="center">
+
 # Muhammad Abdullah Nisar 🚀
 
-AI/ML Engineer | NLP & Deep Learning | Applied AI
+**AI/ML Engineer | NLP & Deep Learning | Applied AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abdullah01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+NLP+%26+Deep+Learning;Transformer+Fine-Tuning+%2B+LLM+Applications;99.05%25+Accuracy+Fake+News+Detector+Builder;Full+Stack+AI+Product+Developer" />
+
+</div>
 
 🎓 B.Tech Computer Science @ Khawaja Fareed University of Engineering & IT
 
@@ -39,6 +43,8 @@ const abdullah = {
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -47,6 +53,8 @@ const abdullah = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -80,11 +88,10 @@ Built with Kotlin.
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=Muhammad-Abdullah01&theme=tokyonight" />
-<div align="center">
-
-*"Every dataset tells a story — I just build the models that read it."*[cite: 1]
 
 </div>
