@@ -1,90 +1,120 @@
 <div align="center">
 
-# Muhammad Abdullah Nisar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Muhammad%20Abdullah%20Nisar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20NLP%20%26%20Deep%20Learning&descAlignY=55&descSize=17" width="100%"/>
 
-### AI/ML Engineer · NLP & Deep Learning · Applied AI
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+models+that+ship;Fine-tuning+Transformers+%26+LLMs;99.05%25+accuracy+isn't+luck+%E2%80%94+it's+iteration;Building+full-stack+AI+products" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abdullah01?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Abdullah01&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-## About Me
+## 🧠 About Me
 
-I'm a Computer Science student at **Khawaja Fareed University of Engineering & IT**, focused on turning NLP and deep learning research into working, deployable systems — not just notebooks that run once and get shelved.
+```yaml
+name: Muhammad Abdullah Nisar
+role: AI/ML Engineer
+university: Khawaja Fareed University of Engineering & IT
+focus: [NLP, Deep Learning, Time-Series Forecasting, Applied AI]
+currently_exploring: [Transformers, LLM Fine-Tuning, RAG Pipelines]
+philosophy: "Ship models, don't just train them."
+```
 
-- 🔭 Building **production-style AI systems**: model → API → frontend
-- 🧪 Recent focus: fine-tuning transformer models for real-world classification tasks
-- 📈 Also work on time-series forecasting for financial data
-- ⚙️ Comfortable across the ML lifecycle — data prep, training, evaluation, and deployment
-- 💬 Ask me about: **PyTorch, Hugging Face Transformers, NLP, Kotlin, TypeScript**
+- 🔭 Building **production-grade AI systems** — model → API → frontend
+- 🧪 Recent focus: fine-tuning transformer models for real-world classification
+- 📈 Also into time-series forecasting for crypto markets
+- ⚡ Ask me about: **PyTorch · Hugging Face · NLP · Kotlin · TypeScript**
 
----
+<br/>
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### 🔍 [Fake News Detector](https://github.com/Muhammad-Abdullah01/Fake-News-Detector)
-BERT-based fake news classifier fine-tuned on the WELFake dataset (63K articles).
-**99.05% accuracy · 98.94% F1** — a 4-point improvement over a TF-IDF baseline.
-`PyTorch` `Hugging Face Transformers` `NLP`
+<table align="center">
+<tr>
+<td width="50%">
 
-### 🧭 [Raahi-AI](https://github.com/Muhammad-Abdullah01/Raahi-AI)
-An AI-powered tourism guide for Pakistan, offering context-aware travel recommendations.
+**🔍 [Fake News Detector](https://github.com/Muhammad-Abdullah01/Fake-News-Detector)**
+BERT fine-tuned on WELFake (63K articles)
+**99.05% accuracy · 98.94% F1**, beating TF-IDF by 4%
+`PyTorch` `Transformers` `NLP`
+
+</td>
+<td width="50%">
+
+**🧭 [Raahi-AI](https://github.com/Muhammad-Abdullah01/Raahi-AI)**
+AI-powered tourism guide for Pakistan with context-aware recommendations
 `TypeScript`
 
-### 📈 [ETH/USDT Time-Series Forecasting](https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-)
-Forecasting Ethereum price movement using time-series modeling techniques.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📈 [ETH/USDT Forecasting](https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-)**
+Time-series modeling for crypto price movement
 `Python` `Jupyter Notebook`
 
-### 🎮 [Tic-Tac-Toe Mobile App](https://github.com/Muhammad-Abdullah01/Tic-Tac-Toe-Mobile-app)
-A polished, native mobile game with clean UI and solid game logic.
+</td>
+<td width="50%">
+
+**🎮 [Tic-Tac-Toe Mobile](https://github.com/Muhammad-Abdullah01/Tic-Tac-Toe-Mobile-app)**
+Native mobile game, clean UI and solid game logic
 `Kotlin`
 
-> 💡 Pin these on your profile (**Customize your pins**) so they're the first thing a visitor sees.
+</td>
+</tr>
+</table>
 
----
+<div align="center"><sub>💡 Pin these on your profile (Customize your pins) so they're the first thing visitors see</sub></div>
 
-## Tech Stack
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,kotlin,typescript,git,github,vscode,linux&theme=dark" />
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abdullah01&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Abdullah01&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
----
+<br/>
 
-## GitHub Stats
+<!--
+  🐍 OPTIONAL: a live "snake eats your contribution graph" animation.
+  This one needs a tiny one-time setup because it's generated by YOUR
+  own GitHub Action, not a third-party server — so it never goes down.
 
-<div align="center">
+  1. In this repo, go to Settings → Secrets and variables → Actions → nothing needed.
+  2. Create .github/workflows/snake.yml with the official action:
+     https://github.com/Platane/snk#-usage
+  3. It will output an SVG to a branch (e.g. "output"), then embed it below:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Abdullah01&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
-
----
+  <img src="https://raw.githubusercontent.com/Muhammad-Abdullah01/Muhammad-Abdullah01/output/github-contribution-grid-snake.svg" />
+-->
 
 <div align="center">
 
-*"Every dataset tells a story — I just build the models that read it."*
+### 💭 *"Every dataset tells a story — I just build the models that read it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
