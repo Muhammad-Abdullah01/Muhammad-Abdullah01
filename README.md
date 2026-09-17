@@ -1,117 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=220&section=header&text=Muhammad%20Abdullah%20Nisar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20NLP%20%26%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
+# Muhammad Abdullah Nisar
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+models+that+ship;Fine-tuning+Transformers+%26+LLMs;Building+full-stack+AI+products;99.05%25+accuracy+isn't+luck+%E2%80%94+it's+iteration" alt="Typing SVG" />
-</a>
+### AI/ML Engineer · NLP & Deep Learning · Applied AI
 
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Muhammad-Abdullah01?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Abdullah01&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abdullah01?tab=repositories)
 
 </div>
 
-<br/>
+---
 
-## 🧠 About Me
+## About Me
 
-```yaml
-name: Muhammad Abdullah Nisar
-role: AI/ML Engineer
-university: Khawaja Fareed University of Engineering & IT
-focus: [NLP, Deep Learning, Time-Series Forecasting, Applied AI]
-currently_exploring: [Transformers, LLM Fine-Tuning, RAG Pipelines]
-philosophy: "Ship models, don't just train them."
-```
+I'm a Computer Science student at **Khawaja Fareed University of Engineering & IT**, focused on turning NLP and deep learning research into working, deployable systems — not just notebooks that run once and get shelved.
 
-- 🔭 Building **production-grade AI systems** — model to API to frontend
-- 🧪 Recent focus: fine-tuning BERT/Transformer models for real-world classification
-- 📈 Also into quant-style time-series forecasting (crypto markets)
-- ⚡ Ask me about: **PyTorch, Hugging Face, NLP, Kotlin, TypeScript**
+- 🔭 Building **production-style AI systems**: model → API → frontend
+- 🧪 Recent focus: fine-tuning transformer models for real-world classification tasks
+- 📈 Also work on time-series forecasting for financial data
+- ⚙️ Comfortable across the ML lifecycle — data prep, training, evaluation, and deployment
+- 💬 Ask me about: **PyTorch, Hugging Face Transformers, NLP, Kotlin, TypeScript**
 
-<br/>
+---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-<div align="center">
+### 🔍 [Fake News Detector](https://github.com/Muhammad-Abdullah01/Fake-News-Detector)
+BERT-based fake news classifier fine-tuned on the WELFake dataset (63K articles).
+**99.05% accuracy · 98.94% F1** — a 4-point improvement over a TF-IDF baseline.
+`PyTorch` `Hugging Face Transformers` `NLP`
 
-<a href="https://github.com/Muhammad-Abdullah01/Fake-News-Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abdullah01&repo=Fake-News-Detector&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Muhammad-Abdullah01/Raahi-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abdullah01&repo=Raahi-AI&theme=radical&hide_border=true" />
-</a>
+### 🧭 [Raahi-AI](https://github.com/Muhammad-Abdullah01/Raahi-AI)
+An AI-powered tourism guide for Pakistan, offering context-aware travel recommendations.
+`TypeScript`
 
-<a href="https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abdullah01&repo=Time-Series-Analysis-of-Ethereum-ETH-USDT-&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Muhammad-Abdullah01/Tic-Tac-Toe-Mobile-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abdullah01&repo=Tic-Tac-Toe-Mobile-app&theme=radical&hide_border=true" />
-</a>
+### 📈 [ETH/USDT Time-Series Forecasting](https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-)
+Forecasting Ethereum price movement using time-series modeling techniques.
+`Python` `Jupyter Notebook`
 
-</div>
+### 🎮 [Tic-Tac-Toe Mobile App](https://github.com/Muhammad-Abdullah01/Tic-Tac-Toe-Mobile-app)
+A polished, native mobile game with clean UI and solid game logic.
+`Kotlin`
 
-| Project | Highlight |
-|---|---|
-| 🔍 **[Fake News Detector](https://github.com/Muhammad-Abdullah01/Fake-News-Detector)** | BERT fine-tuned on WELFake (63K articles) — **99.05% accuracy, 98.94% F1**, beating TF-IDF by 4% |
-| 🧭 **[Raahi-AI](https://github.com/Muhammad-Abdullah01/Raahi-AI)** | AI tourism guide for Pakistan, built in TypeScript |
-| 📈 **[ETH/USDT Forecasting](https://github.com/Muhammad-Abdullah01/Time-Series-Analysis-of-Ethereum-ETH-USDT-)** | Time-series modeling for crypto price movement |
-| 🎮 **[Tic-Tac-Toe Mobile](https://github.com/Muhammad-Abdullah01/Tic-Tac-Toe-Mobile-app)** | Native Kotlin mobile game |
+> 💡 Pin these on your profile (**Customize your pins**) so they're the first thing a visitor sees.
 
-<br/>
+---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,kotlin,typescript,git,github,vscode,linux&theme=dark" />
-</div>
-
-<br/>
+## Tech Stack
 
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abdullah01&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Abdullah01&theme=redical&hide_border=true" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Abdullah01&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah01&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah01&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Abdullah01&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
 
 <div align="center">
 
-### 💭 *"Every dataset tells a story — I just build the models that read it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer" width="100%"/>
+*"Every dataset tells a story — I just build the models that read it."*
 
 </div>
